@@ -1,0 +1,31 @@
+{
+  "name": "bootstrap-console",
+  "description": "Bootstrap console like theme",
+  "version": "0.0.0",
+  "authors": [
+    "James Durand <james.durand@alumni.msoe.edu>"
+  ],
+  "license": "MIT",
+  "homepage": "http://code.theisleoffavalon.com/projects?p=bootstrap-console.git;a=summary",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "git@code.theisleoffavalon.com:projects/bootstrap-console.git"
+  },
+  "keywords": [
+    "bootstrap",
+    "theme",
+    "themes"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.2",
+    "jquery": "^1.11.2",
+    "html5shiv": "^3.7.2",
+    "respondJs": "~1.4.2",
+    "jquery-placeholder": "~2.1.0"
+  },
+  "resolutions": {
+    "jquery": "1.11.2"
+  }
+}
+
